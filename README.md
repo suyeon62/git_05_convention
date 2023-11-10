@@ -34,3 +34,29 @@
 [![구글](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
 
 ![가방](./asset/pizza.jpg)
+
+### 인라인 (inline) 코드 강조
+`백티1개`는 `인라인 코드 강조`를 의미한다.
+
+```java
+   public class Exam{
+      public static void main(String[] args){
+         System.out.println("exam");
+   }
+}
+```
+
+### 표 (table)
+|이름|성별|주소|
+|---|:---:|---:|
+|홍길동|남|경기도 화성시|
+|김민재|남|서울 서초구|
+
+|:-| 왼쪽 정렬
+|:-:| 가운데 정렬
+|-:| 오른쪽 정렬
+
+### 인용문 (blockQuote)
+> 타인의 말이나 문장을 직접 또는 간접으로 가져온다.
+> > 인용문1
+> > > 인용문2
